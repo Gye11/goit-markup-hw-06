@@ -1000,9 +1000,7 @@ a {
   .order-btn:hover,
   .order-btn:focus,
   .modal-btn:hover,
-  .modal-btn:focus,
-  .subscribe-form button:hover,
-  .subscribe-form button:focus {
+  .modal-btn:focus {
     background-color: #404bbf;
   }
 
